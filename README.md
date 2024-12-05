@@ -19,3 +19,11 @@
 
 你需要了解Vue3, ElementUI-Plus, tailwindcss, go等。前端代码在frontedn中，后端代码在backend中。
 前端基本布局已做好，新功能只需要在侧边栏新增item，新功能页面放在src/views/your_new_folder下即可。
+
+## 截图展示
+
+![主界面](https://github.com/moqsien/tools-it/blob/main/docs/it_tools_welcome.png)
+
+![代码统计查询参数](https://github.com/moqsien/tools-it/blob/main/docs/cloc_query.png)
+
+![代码统计结果](https://github.com/moqsien/tools-it/blob/main/docs/cloc_result.png)
